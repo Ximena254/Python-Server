@@ -4,6 +4,12 @@
 Crea un servirdor local usando python
 [![splash.png](https://i.postimg.cc/pdpX5c49/splash.png)](https://postimg.cc/t1GHLkXy)
 
+# INFO. 
+
+El repositorio original es de : @Arturo254 
+
+
+
 # IMPORTANTE
 
 para que el servidor funcione debes ejecutar el comando
